@@ -21,7 +21,7 @@
       <link href="/2024/08/12/%E8%BF%9B%E5%85%A5%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%BD%91%E5%9D%80(%E6%9C%89%E6%B5%81%E7%95%85%E7%9A%84%E7%95%8C%E9%9D%A2)/"/>
       <url>/2024/08/12/%E8%BF%9B%E5%85%A5%E5%8F%A6%E4%B8%80%E4%B8%AA%E6%88%91%E7%9A%84%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%9A%84%E7%BD%91%E5%9D%80(%E6%9C%89%E6%B5%81%E7%95%85%E7%9A%84%E7%95%8C%E9%9D%A2)/</url>
       
-        <content type="html"><![CDATA[<a class="btn btn-primary" href="https://cui.zeabur.app/">点击进入😁</a>]]></content>
+        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">&#123;% alert success %&#125;</span><br><span class="line">准备好了吗，点击进入吧⬇.</span><br><span class="line">&#123;% endalert %&#125;</span><br></pre></td></tr></table></figure><a class="btn btn-primary" href="https://cui.zeabur.app/">点击进入😁</a>]]></content>
       
       
       
